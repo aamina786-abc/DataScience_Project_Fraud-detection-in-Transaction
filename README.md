@@ -1,18 +1,18 @@
 # DataScience_Project_Fraud-detection-in-Transaction 
-##📌 Project Overview
+###📌 Project Overview
 
-#This project analyzes credit card transaction data to detect fraudulent activities.
+This project analyzes credit card transaction data to detect fraudulent activities.
 The goal is to identify unauthorized transactions hidden within a large volume of legitimate transactions using machine learning techniques.
 
-####🎯 Business Questions
+###🎯 Business Questions
 
 How effectively can fraudulent transactions be detected from transaction data?
 Does Random Forest perform better than Logistic Regression for fraud detection?
 How does class imbalance affect fraud prediction accuracy?
 
-####🛠 Tools & Technologies
+###🛠 Tools & Technologies
 
-R Programming
+point 1 R Programming
 tidyverse
 ggplot2
 caret
@@ -20,7 +20,7 @@ ROSE / themis
 randomForest
 pROC
 
-####📊 Methodology
+###📊 Methodology
 
 Data Cleaning & Preprocessing
 Handling Class Imbalance
@@ -29,7 +29,7 @@ Feature Scaling
 Model Building (Logistic Regression & Random Forest)
 Model Evaluation using Confusion Matrix and ROC Curve
 
-####🔍 Key Analysis Performed
+###🔍 Key Analysis Performed
 
 Analyzed class distribution of fraud vs non-fraud transactions
 Visualized transaction patterns using boxplots and histograms
@@ -37,7 +37,7 @@ Built Logistic Regression and Random Forest models
 Compared model performance using Confusion Matrix and ROC Curve
 Evaluated model effectiveness for fraud detection
 
-####👥 Team Roles
+###👥 Team Roles
 
 Student 1: Data Collection & Cleaning – Dataset understanding and preprocessing
 Student 2: EDA Analyst – Visualization and statistical analysis
