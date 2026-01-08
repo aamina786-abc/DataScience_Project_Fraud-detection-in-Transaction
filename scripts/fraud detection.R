@@ -36,7 +36,13 @@ ggplot(data, aes(x = as.factor(Class))) +
 
 #4.a Transaction Amount vs Fraud
 library(ggplot2)
-
+library(ggplot2)
+set.seed(123)
+data <- data.frame(
+  Class = c(rep(0, 100), rep(1, 20)),               # 0 = Legit, 1 = Fraud
+  Amount = c(rnorm(100, mean=50, sd=10), rnorm(20, mean=150, sd=30))
+)
+# The Fixed Plotting Code
 ggplot(data, aes(x = factor(Class), y = Amount, fill = factor(Class))) +
   geom_boxplot(outlier.colour = "red", outlier.size = 1.5) +
   scale_fill_manual(values = c("skyblue", "orange")) +
@@ -109,6 +115,7 @@ auc(roc_obj)
 #10 Identify Suspicious Transactions
 suspicious_txns <- test[log_pred == 1, ]
 head(suspicious_txns)
+
 
 
 
