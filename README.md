@@ -12,19 +12,13 @@ How does class imbalance affect fraud prediction accuracy?
 
 🛠 Tools & Technologies
 
-- Point one R Programming
-
-tidyverse
-
-ggplot2
-
-caret
-
-ROSE / themis
-
-randomForest
-
-pROC
+- R Programming
+- tidyverse
+- ggplot2
+- caret
+- ROSE / themis
+- randomForest
+- pROC
 
 📊 Methodology
 
