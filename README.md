@@ -49,3 +49,8 @@ Student 5: Evaluation Lead – Model evaluation and result interpretation
 /data    → Dataset source or sample  
 /scripts → R scripts for preprocessing, modeling, and evaluation  
 /output  → Final PPT and generated plots  
+
+
+
+
+THANK YOU !
