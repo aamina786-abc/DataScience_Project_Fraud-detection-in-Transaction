@@ -22,32 +22,32 @@ How does class imbalance affect fraud prediction accuracy?
 
 ## 📊 Methodology
 
-Data Cleaning & Preprocessing
-Handling Class Imbalance
-Exploratory Data Analysis (EDA)
-Feature Scaling
-Model Building (Logistic Regression & Random Forest)
-Model Evaluation using Confusion Matrix and ROC Curve
+- Data Cleaning & Preprocessing
+- Handling Class Imbalance
+- Exploratory Data Analysis (EDA)
+- Feature Scaling
+- Model Building (Logistic Regression & Random Forest)
+- Model Evaluation using Confusion Matrix and ROC Curve
 
 ## 🔍 Key Analysis Performed
 
-Analyzed class distribution of fraud vs non-fraud transactions
-Visualized transaction patterns using boxplots and histograms
-Built Logistic Regression and Random Forest models
-Compared model performance using Confusion Matrix and ROC Curve
-Evaluated model effectiveness for fraud detection
+- Analyzed class distribution of fraud vs non-fraud transactions
+- Visualized transaction patterns using boxplots and histograms
+- Built Logistic Regression and Random Forest models
+- Compared model performance using Confusion Matrix and ROC Curve
+- Evaluated model effectiveness for fraud detection
 
 ## 👥 Team Roles
 
-Student 1: Data Collection & Cleaning – Dataset understanding and preprocessing
-Student 2: EDA Analyst – Visualization and statistical analysis
-Student 3: Feature Engineer – Feature selection and scaling
-Student 4: Model Developer – Logistic Regression & Random Forest implementation
-Student 5: Evaluation Lead – Model evaluation and result interpretation
+- Student 1: Data Collection & Cleaning – Dataset understanding and preprocessing
+- Student 2: EDA Analyst – Visualization and statistical analysis
+- Student 3: Feature Engineer – Feature selection and scaling
+- Student 4: Model Developer – Logistic Regression & Random Forest implementation
+- Student 5: Evaluation Lead – Model evaluation and result interpretation
 
 ## 📁 Repository Structure
 
-/data    → Dataset source or sample  
-/scripts → R scripts for preprocessing, modeling, and evaluation  
-/output  → Final PPT and generated plots  
+- /data    → Dataset source or sample  
+- /scripts → R scripts  
+- /output  → Final PPT and generated plots  
 
