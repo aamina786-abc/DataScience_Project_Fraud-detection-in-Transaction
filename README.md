@@ -12,7 +12,7 @@ How does class imbalance affect fraud prediction accuracy?
 
 🛠 Tools & Technologies
 
-R Programming
+- Point one R Programming
 
 tidyverse
 
